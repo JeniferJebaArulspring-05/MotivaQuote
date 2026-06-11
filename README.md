@@ -23,6 +23,4 @@ MotivaQuote is a simple and lightweight Android application that generates rando
 
 ---
 
-## 📸 Screenshots
 
-*(Add your app screenshots here)*
