@@ -1,2 +1,28 @@
-# MotivaQuote
-MotivaQuote – Description 🌟  MotivaQuote is a simple Random Quote Generator app that delivers fresh inspirational quotes 🔄✨. It helps you stay motivated 💪, positive 🌈, and focused 🎯 anytime. With a clean interface 🧼, every tap gives a new quote 📜 to inspire your day and boost your mindset 🚀🤍.
+# 🌟 MotivaQuote - Random Quote Generator App
+
+MotivaQuote is a simple and lightweight Android application that generates random inspirational quotes to motivate users daily. It helps users stay positive, focused, and encouraged throughout their day.
+
+---
+
+## 📱 Features
+
+- 🔄 Random quote generation
+- 💪 Motivational and inspirational content
+- 🎯 Clean and simple UI
+- ⚡ Fast and lightweight performance
+- 📖 Easy one-tap quote refresh
+
+---
+
+## 🛠️ Tech Stack
+
+- Kotlin
+- Android Studio
+- XML (UI Design)
+- Material Design Components
+
+---
+
+## 📸 Screenshots
+
+*(Add your app screenshots here)*
